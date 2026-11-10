@@ -1,30 +1,44 @@
-## Hi there 👋, I'm Johny CodeBigJay!
+# Hi, I'm Mogomotsi Johny Sebogo 👋
 
-## 🎓 About Me
-I recently graduated with a **Computer Science** degree, and I am embarking on an exciting journey to self-educate in the field of **Data Science**. I am passionate about learning new technologies, solving problems, and growing as a developer.
+**Computer Science & Electronics graduate | Aspiring Software Developer**
 
-## 🌱 What I'm Currently Learning
-- The basics of **Data Science** 
-- Tools like **Jupyter Notebooks**, **Pandas**, **NumPy**, and **Matplotlib**.
-- How to work on real-world data projects.
+I'm a North-West University graduate (BSc Computer Science & Electronics, 2024) interested in building practical software and solving problems through technology. My academic background introduced me to software development, programming, databases, computer systems and electronics.
 
-## 🛠️ Technologies I'm Familiar With
-- **Programming Languages**: Python, Java, C++ (from my university experience)
-- **Version Control**: Git and GitHub
-- **Other Skills**: Problem-solving, algorithms, oop and debugging.
+I'm currently strengthening my development skills through personal projects and hands-on learning, and I'm interested in graduate, internship and junior software development opportunities.
 
-## 📚 My Learning Goals
-1. Master the foundations of Data Science.
-2. Build and share beginner-level data science projects on GitHub.
-3. Transition into solving real-world problems with data-driven insights.
+## What I work with
 
-## 📈 My Progress
-Check back often as I plan to document and share my learning journey:
-- Tutorials I’ve followed
-- Mini-projects I’ve completed
-- Challenges and lessons learned
+- **Programming:** Java, Python, C++
+- **Web development:** React, TypeScript, JavaScript, HTML, CSS
+- **Databases:** SQL, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Maven
+- **Computer science foundations:** Object-oriented programming, data structures and algorithms, database design, networking and operating systems
 
-## 💬 How to Connect
-Feel free to reach out to me! I’d love to connect with fellow learners, mentors, or anyone passionate about Data Science and Technology:
-- **GitHub**:[https://github.com/CodeBigJay]
-- **Email**: [johneysebogo@gmail.com]
+These are technologies and concepts I've worked with through coursework and personal projects; my experience varies by tool.
+
+## Selected projects
+
+### [Job Tracker](https://github.com/CodeBigJay/Job-Tracker)
+A personal project focused on organising and tracking job applications. See the repository for its current implementation and technologies.
+
+### [YouTube Converter – Backend](https://github.com/CodeBigJay/youtube-converter-backend)
+A Spring Boot backend project exploring media conversion workflows and file handling.
+
+### [Portfolio](https://johnysebogo.pages.dev/)
+My portfolio website, where I present my background, projects and experience.
+
+## What I'm focused on
+
+- Improving my software engineering and problem-solving skills.
+- Building projects with clear documentation and maintainable code.
+- Deepening my experience with Java, Python, databases and web technologies.
+
+## Let's connect
+
+- **Portfolio:** [johnysebogo.pages.dev](https://johnysebogo.pages.dev/)
+- **GitHub:** [@CodeBigJay](https://github.com/CodeBigJay)
+- **Email:** [johneysebogo@gmail.com](mailto:johneysebogo@gmail.com)
+
+---
+
+*I'm open to graduate opportunities, internships and junior roles where I can contribute, learn and grow as a software developer.*
