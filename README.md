@@ -19,13 +19,19 @@ These are technologies and concepts I've worked with through coursework and pers
 ## Selected projects
 
 ### [Job Tracker](https://github.com/CodeBigJay/Job-Tracker)
-A personal project focused on organising and tracking job applications. See the repository for its current implementation and technologies.
+A full-stack application for organising job applications and tracking recruitment progress. Built with React, TypeScript, Java, Spring Boot, PostgreSQL and Docker Compose.
 
-### [YouTube Converter – Backend](https://github.com/CodeBigJay/youtube-converter-backend)
-A Spring Boot backend project exploring media conversion workflows and file handling.
+### [Doorstep Meds — FNB App Academy capstone](https://github.com/CodeBigJay/Medicene_delivery)
+An educational Python application prototype demonstrating a Flet client, Flask REST API, persistence layers and automated tests. It is presented as a software-learning project, not a production healthcare service.
 
-### [Portfolio](https://johnysebogo.pages.dev/)
-My portfolio website, where I present my background, projects and experience.
+### [SkillSwap](https://github.com/CodeBigJay/SkillSwap)
+A Java/Spring Boot project exploring a skills-exchange platform concept, using Spring Web, Spring Data JPA and MySQL. The repository is under development; see its README for the current scope.
+
+### [Media Converter Backend](https://github.com/CodeBigJay/youtube-converter-backend)
+A Spring Boot backend project exploring HTTP handling, file processing and media-conversion tooling. Use only media you own or are authorised to process.
+
+### [Portfolio Website](https://johnysebogo.pages.dev/)
+My live portfolio, where I present my background, projects and experience. [Source code](https://github.com/CodeBigJay/Updated_portfolio).
 
 ## What I'm focused on
 
